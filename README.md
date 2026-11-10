@@ -1,3 +1,7 @@
+Built by Abhay Lakshmi Narayanan
+
+Demo Video: https://youtu.be/ZWJOPZt-YDc
+
 # FocusGrid - Reminder Planner
 
 This project is a Flutter reminder and productivity app designed for managing personal tasks, upcoming deadlines, and daily planning.
@@ -7,6 +11,7 @@ This project is a Flutter reminder and productivity app designed for managing pe
 FocusGrid includes:
 - a monthly calendar dashboard
 - reminder creation and editing
+- 
 - task completion tracking
 - reminder filtering by date
 - smart suggestions and analytics
